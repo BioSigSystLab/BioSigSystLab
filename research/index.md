@@ -2,26 +2,33 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: What we study
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
+Small description of general research theme
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
+# First under-study Project
+Going into the details of project1
 
-## All
 
-{% include search-box.html %}
 
-{% include search-info.html %}
+# Second under-study Project
+Going into the details of project2
+{% include feature.html image="images/photo.jpg" link="projects" title="Our Projects" flip=true style="bare" text=text %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="Second Project"
+  style="bare"
+%}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+
+
+# Third under-study Project
+Going into the details of project3
+{% include feature.html image="images/photo.jpg" link="projects" title="Our Projects" flip=true style="bare" text=text %}
+
