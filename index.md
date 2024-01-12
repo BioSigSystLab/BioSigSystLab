@@ -10,7 +10,7 @@ An engaging 1-3 sentence description of our lab.
 
 {:.center}
 {% include section.html full=true %}
-{% include banner.html image="images/photo.jpg" %}
+{% include feature.html image="images/photo.jpg" %}
 {% include section.html %}
 
 
