@@ -11,13 +11,16 @@ Small description of general research theme
 
 
 {% include section.html %}
-# First under-study Project
+{:.center}
+## First under-study Project
 Going into the details of project1
 
 
 
-# Second under-study Project
+{:.center}
+## Second under-study Project
 Going into the details of project2
+{:.center}
 {%
   include feature.html
   image="images/photo.jpg"
@@ -26,6 +29,7 @@ Going into the details of project2
 
 
 
-# Third under-study Project
+{:.center}
+## Third under-study Project
 Going into the details of project3
 
