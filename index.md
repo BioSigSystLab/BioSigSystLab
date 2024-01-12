@@ -1,29 +1,34 @@
 ---
+title: Home
 ---
 
-# emad-askari's Website
+# BSSA's Website
 
-An engaging 1-3 sentence description of your lab.
+An engaging 1-3 sentence description of our lab.
 
+
+
+{:.center}
+{% include section.html full=true %}
+{% include banner.html image="images/photo.jpg" %}
 {% include section.html %}
 
-## Highlights
+
+
+# Highlights
+
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+description of our research theme
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research landscape"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
-
 {%
   include feature.html
   image="images/photo.jpg"
@@ -32,10 +37,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
+
+
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+description of current projects
 {%
   include button.html
   link="projects"
@@ -44,9 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
-
 {%
   include feature.html
   image="images/photo.jpg"
@@ -57,10 +60,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
+
+
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Something for Team members
 {%
   include button.html
   link="team"
@@ -69,9 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
-
 {%
   include feature.html
   image="images/photo.jpg"
@@ -79,3 +80,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+
