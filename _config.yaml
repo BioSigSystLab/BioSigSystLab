@@ -1,18 +1,19 @@
 # site properties and page defaults
-title: emad-askari
+title: emad askari
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+description: 
+header: images/banner.jpg
+footer: images/banner.jpg
 
 # site social media and other links
 links:
-  email: contact@emad-askari.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: emad-askari
-  twitter: emad-askari
-  youtube: emad-askari
+  email: emad.askarinejad@mail.mcgill.ca
+  # orcid: 0000-0001-8713-9213
+  google-scholar: https://scholar.google.com/citations?user=qUZIvvwAAAAJ&hl=en
+  linkedin: www.linkedin.com/in/emad-askari
+  github: https://github.com/emad-askari
+  # twitter: emad-askari
+  # youtube: emad-askari
 
 ### jekyll settings
 
