@@ -22,10 +22,9 @@ Going into the details of project1
 Going into the details of project2
 {%
   include feature.html
-  image="images/photo.jpg"
+  {:.center} image="images/photo.jpg"
   style="bare"
 %}
-{:.center}
 
 
 
