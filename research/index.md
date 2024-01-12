@@ -21,9 +21,8 @@ Going into the details of project1
 ## Second under-study Project
 Going into the details of project2
 {%
-  include feature.html
-  {:.center} image="images/photo.jpg"
-  style="bare"
+  include card.html
+  image="images/photo.jpg"
 %}
 
 
