@@ -1,5 +1,5 @@
 ---
-name: Person 2
+name: Person 2 (Master)
 image: images/photo.jpg
 role: master
 description: Master Student
@@ -15,4 +15,4 @@ links:
   github: janesmith
 ---
 
-Person 2's Bio
+Person 2 (Master)'s Bio
