@@ -21,6 +21,8 @@ maybe small parag.
 
 
 {% include section.html background="images/background.jpg" dark=true %}
+{:.center}
+## Opportunities
 maybe something for prospective students
 
 
