@@ -2,6 +2,7 @@
 name: Person 1
 image: images/photo.jpg
 role: pi
+description: Principal Investigator
 aliases:
   - J. Smith
   - J Smith
