@@ -5,31 +5,25 @@ nav:
   tooltip: About our team
 ---
 
+{:.center}
 # {% include icon.html icon="fa-solid fa-users" %}Team
+maybe small parag.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 
 {% include section.html %}
-
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: researcher" %}
+{% include list.html data="members" component="portrait" filters="role: master" %}
+{% include list.html data="members" component="portrait" filters="role: bachelor" %}
+
+
 
 {% include section.html background="images/background.jpg" dark=true %}
+maybe something for prospective students
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 
 {% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
