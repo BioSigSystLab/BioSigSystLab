@@ -81,6 +81,5 @@
   publisher: 2019 7th International Conference on Robotics and Mechatronics (ICRoM)
   date: '2019-11-01'
   link: https://doi.org/gtddmf
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9051588/9071793/9071873/38-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
