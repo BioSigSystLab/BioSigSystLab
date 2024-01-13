@@ -26,4 +26,6 @@ maybe something for prospective students
 
 
 {% include section.html %}
+{:.center}
+## Alumni
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
