@@ -38,7 +38,7 @@ Lab Location
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Picture of Lab"
 %}
 {% endcapture %}
 
@@ -46,7 +46,7 @@ Lab Location
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Picture of Lab members"
 %}
 {% endcapture %}
 
