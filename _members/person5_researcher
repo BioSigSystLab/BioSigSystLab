@@ -1,5 +1,5 @@
 ---
-name: Human No.5 (researcher)
+name: Person 5 (researcher)
 image: images/photo.jpg
 role: researcher
 description: Lead Programmer
@@ -15,4 +15,4 @@ links:
   github: janesmith
 ---
 
-No.5(researcher)'s Bio
+Person 5 (researcher)'s Bio
