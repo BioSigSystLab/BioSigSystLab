@@ -1,5 +1,5 @@
 ---
-name: Person 3
+name: Person 3 - bachelor
 image: images/photo.jpg
 role: bachelor
 description: Bachelor Student
@@ -15,4 +15,4 @@ links:
   github: janesmith
 ---
 
-Person 3's Bio
+Person 3 (bachelor)'s Bio
