@@ -1,5 +1,5 @@
 ---
-name: Person 4
+name: Person 4 (alumni)
 image: images/photo.jpg
 role: alumni
 description: Alumni
@@ -15,4 +15,4 @@ links:
   github: janesmith
 ---
 
-Person 4's Bio
+Person 4 (alumni)'s Bio
