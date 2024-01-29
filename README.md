@@ -4,7 +4,8 @@
 
 ## Instructions;
 * to change the header/footer picture (in each page), just change the ``banner.jpg`` in ``_config.yaml``
-  ### HomePage
+
+### HomePage
 * to change the contexts of this page, edite ``index.md`` file
 
 ---
