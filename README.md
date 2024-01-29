@@ -7,7 +7,7 @@ Visit **[biosigsystlab.github.io/BioSigSystLab](https://biosigsystlab.github.io/
 * to change the header and footer picture (in each page) just change the ``banner.jpg`` in ``_config.yaml``
 
 ---
-TO-DO List;
+### TO-DO List;
 - [ ] HomePage:
   - [ ] a banner for top
 - [ ] Research:
