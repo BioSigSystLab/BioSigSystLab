@@ -7,9 +7,10 @@
 * to change the links at the bottom [of each page], edit the corresponding links in ``_config.yaml`` file
 
 ### - HomePage
-* to change the contexts of this page, edite ``index.md`` file
+* to change the content of this page, edite ``index.md`` file
 
 ### - Research
+* to change the content of this page, edite ``index.md`` file
 
 
 ### - Publications
@@ -23,8 +24,8 @@
 
 ---
 ### TO-DO List;
-- [ ] picture for header & footer 
-- [ ] Logo 
+- [ ] picture for header & footer;
+- [ ] Logo;
 - [ ] HomePage;
   - [ ] a brief description of the lab;
   - [ ] big [lab] image for the first page;
@@ -39,7 +40,9 @@
   - [ ] get into the details of our **first** under-study project;
   - [ ] get into the details of our **second** under-study project;
   - [ ] get into the details of our **third** under-study project;
-  - [ ] * Pictures may be added for each or some of the projects;
+  - [ ] * Pictures might be added for each or some of the projects;
+- [ ] Publications;
+  - [ ] a brief description might be added on top;
 
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
