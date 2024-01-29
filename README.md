@@ -10,9 +10,10 @@
 
 ---
 ### TO-DO List;
-- [ ] A picture for header & footer 
+- [ ] picture for header & footer 
+- [ ] Logo 
 - [ ] HomePage;
-  - [ ] A big image for ;
+  - [ ] big [lab] image for the first page;
 - [ ] Research;
 
 
