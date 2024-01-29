@@ -1,7 +1,6 @@
 
 # <ins>B</ins>io<ins>S</ins>ignals & <ins>S</ins>ystems <ins>A</ins>nalysis's Website
-
-Visit **[biosigsystlab.github.io/BioSigSystLab](https://biosigsystlab.github.io/BioSigSystLab)** 🚀
+(Visit **[biosigsystlab.github.io/BioSigSystLab](https://biosigsystlab.github.io/BioSigSystLab)** 🚀)
 
 ## Instructions;
 * to change the header/footer picture (in each page), just change the ``banner.jpg`` in ``_config.yaml``
