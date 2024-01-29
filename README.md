@@ -7,7 +7,8 @@ Visit **[biosigsystlab.github.io/BioSigSystLab](https://biosigsystlab.github.io/
 
 TO-DO List;
 - [ ] HomePage:
-- [ ] Research
+  - [ ] nested list
+- [ ] Research:
 
 
 1. HomePage - Upload photos and write parag.s
