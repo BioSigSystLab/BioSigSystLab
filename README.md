@@ -6,15 +6,20 @@
 * to change the header/footer picture [of each page], change the ``banner.jpg`` in ``_config.yaml`` file
 * to change the links at the bottom [of each page], edit the corresponding links in ``_config.yaml`` file
 
-### HomePage
+- ### HomePage
 * to change the contexts of this page, edite ``index.md`` file
-### Research
 
-### Publications
+- ### Research
 
-### Team
 
-### Contact
+- ### Publications
+
+
+- ### Team
+
+
+- ### Contact
+
 
 ---
 ### TO-DO List;
