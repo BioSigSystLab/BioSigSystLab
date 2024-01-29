@@ -29,9 +29,10 @@
 
 ---
 ### TO-DO List;
-- [ ] picture for header & footer;
-- [ ] Logo;
-- [ ] HomePage;
+- [ ] picture for header & footer should be updated;
+- [ ] Logo should be updated;
+- [x] links at the bottom of each page should be updated;
+- [ ] HOMEPAGE;
   - [ ] a brief description of the lab;
   - [ ] big [lab] image for the first page;
   - [ ] some texts for **Our Research**;
@@ -40,14 +41,21 @@
   - [ ] a picture for **Our Projects**;
   - [ ] some texts for **Our Team**;
   - [ ] a picture for **Our Team**;
-- [ ] Research;
+- [ ] RESEARCH;
   - [ ] a brief description of general theme of our research at the begining;
   - [ ] get into the details of our **first** under-study project;
   - [ ] get into the details of our **second** under-study project;
   - [ ] get into the details of our **third** under-study project;
   - [ ] * Pictures might be added for each or some of the projects;
-- [ ] Publications;
+- [ ] PUBLICATIONS;
   - [ ] a brief description might be added on top;
+- [ ] TEAM;
+  - [ ] a small paragraph might be added on top;
+- [ ] CONTACT;
+  - [ ] a small paragraph might be added on top;
+  - [x] supervisor contact informations should be added;
+  - [x] mailing address and google map link should be added;
+  - [ ] 2 pictures might be added here;
 
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
