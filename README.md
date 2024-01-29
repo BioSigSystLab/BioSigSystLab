@@ -12,16 +12,19 @@
 * to change the content of this page, edite ``index.md`` file
 
 ### - Research
-* to change the content of this page, edite ``index.md`` file
+* to change the content of this page, edite ``index.md`` file in ``research`` folder
 
 
 ### - Publications
+* to change the content of this page, edite ``index.md`` file in ``projects`` folder
 
 
 ### - Team
+* to change the content of this page, edite ``index.md`` file in ``team`` folder
 
 
 ### - Contact
+* to change the content of this page, edite ``index.md`` file in ``contact`` folder
 
 
 ---
