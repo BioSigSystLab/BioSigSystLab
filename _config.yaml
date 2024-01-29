@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: emad askarinejad
+title: BSSA lab
 subtitle: 
 description: 
 header: images/banner.jpg
@@ -7,13 +7,13 @@ footer: images/banner.jpg
 
 # site social media and other links
 links:
-  email: emad.askarinejad@mail.mcgill.ca
-  # orcid: 0000-0001-8713-9213
-  google-scholar: https://scholar.google.com/citations?user=qUZIvvwAAAAJ&hl=en
-  linkedin: emad-askari
-  github: emad-askari
-  # twitter: emad-askari
-  # youtube: emad-askari
+  email: georgios.mitsis@mcgill.ca
+  orcid: 0000-0001-9975-5128
+  # google-scholar: https://scholar.google.com/citations?user=qUZIvvwAAAAJ&hl=en
+  # linkedin: BioSigSystLab
+  github: BioSigSystLab
+  # twitter: BioSigSystLab
+  # youtube: BioSigSystLab
 
 ### jekyll settings
 
