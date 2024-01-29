@@ -8,6 +8,13 @@
 
 ### HomePage
 * to change the contexts of this page, edite ``index.md`` file
+### Research
+
+### Publications
+
+### Team
+
+### Contact
 
 ---
 ### TO-DO List;
