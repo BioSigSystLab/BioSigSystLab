@@ -14,6 +14,7 @@
 - [ ] picture for header & footer 
 - [ ] Logo 
 - [ ] HomePage;
+  - [ ] a brief description of the lab;
   - [ ] big [lab] image for the first page;
   - [ ] some texts for **Our Research**;
   - [ ] a picture for **Our Research**;
