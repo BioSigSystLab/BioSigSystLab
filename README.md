@@ -5,6 +5,8 @@
 ## Instructions;
 * to change the header/footer picture [of each page], change the ``banner.jpg`` in ``_config.yaml`` file
 * to change the links at the bottom [of each page], edit the corresponding links in ``_config.yaml`` file
+* If you want to add a picture anywhere in the website, the general agreement is to add the picture to ``images`` folder and the add the following syntax where you want to add it:
+  {% include card.html image="images/The_Pic_U_Want_2_Add.jpg" %}
 
 ### - HomePage
 * to change the content of this page, edite ``index.md`` file
