@@ -3,14 +3,17 @@
 
 Visit **[biosigsystlab.github.io/BioSigSystLab](https://biosigsystlab.github.io/BioSigSystLab)** 🚀
 
-## Instructions:
+## Instructions;
+* to change the header/footer picture (in each page) just change the ``banner.jpg`` in ``_config.yaml``
+  ### HomePage
 * to change the header and footer picture (in each page) just change the ``banner.jpg`` in ``_config.yaml``
 
 ---
 ### TO-DO List;
-- [ ] HomePage:
-  - [ ] a banner for top
-- [ ] Research:
+- [ ] A picture for header & footer 
+- [ ] HomePage;
+  - [ ] A big image for ;
+- [ ] Research;
 
 
 1. HomePage - Upload photos and write parag.s
