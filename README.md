@@ -1,5 +1,5 @@
 
-# $$B$$ioSignals & Systems Analysis's Website
+# **B**io**S**ignals & **S**ystems **A**nalysis's Website
 
 Visit **[biosigsystlab.github.io/BioSigSystLab](https://biosigsystlab.github.io/BioSigSystLab)** 🚀
 
