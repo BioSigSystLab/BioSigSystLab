@@ -16,14 +16,12 @@
 - [ ] HomePage;
   - [ ] big [lab] image for the first page;
   - [ ] some texts for **Our Research**;
+  - [ ] a picture for **Our Research**;
   - [ ] some texts for **Our Projects**;
+  - [ ] a picture for **Our Projects**;
   - [ ] some texts for **Our Team**;
-  - [ ] some texts for Research;
+  - [ ] a picture for **Our Team**;
 - [ ] Research;
 
-
-1. HomePage - Upload photos and write parag.s
-2. Research - General research theme + detail description of 3 on-going projects
-3. Publications - General Description + update citation file
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
