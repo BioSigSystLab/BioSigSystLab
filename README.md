@@ -4,9 +4,9 @@
 Visit **[biosigsystlab.github.io/BioSigSystLab](https://biosigsystlab.github.io/BioSigSystLab)** 🚀
 
 ## Instructions;
-* to change the header/footer picture (in each page) just change the ``banner.jpg`` in ``_config.yaml``
+* to change the header/footer picture (in each page), just change the ``banner.jpg`` in ``_config.yaml``
   ### HomePage
-* to change the header and footer picture (in each page) just change the ``banner.jpg`` in ``_config.yaml``
+* to change the contexts of this page, edite ``index.md`` file
 
 ---
 ### TO-DO List;
