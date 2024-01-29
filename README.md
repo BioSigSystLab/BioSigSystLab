@@ -1,5 +1,5 @@
 
-# BioSignals & Systems Analysis's Website
+# \underline{B}ioSignals & Systems Analysis's Website
 
 Visit **[biosigsystlab.github.io/BioSigSystLab](https://biosigsystlab.github.io/BioSigSystLab)** 🚀
 
