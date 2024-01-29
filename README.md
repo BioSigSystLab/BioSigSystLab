@@ -7,7 +7,9 @@ Visit **[biosigsystlab.github.io/BioSigSystLab](https://biosigsystlab.github.io/
 
 TO-DO List;
 - [] HomePage:
-  - []
+- [] Research
+
+
 1. HomePage - Upload photos and write parag.s
 2. Research - General research theme + detail description of 3 on-going projects
 3. Publications - General Description + update citation file
