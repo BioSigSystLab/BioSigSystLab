@@ -35,6 +35,10 @@
   - [ ] some texts for **Our Team**;
   - [ ] a picture for **Our Team**;
 - [ ] Research;
+  - [ ] a brief description of general theme of our research at the begining;
+  - [ ] get into the details of our **first** under-study project;
+  - [ ] get into the details of our **second** under-study project;
+  - [ ] get into the details of our **third** under-study project;
 
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
