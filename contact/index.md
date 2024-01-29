@@ -33,7 +33,7 @@ Some text!
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/5pqjBCWD3H9BFzrR6)"
+  link="https://maps.app.goo.gl/5pqjBCWD3H9BFzrR6"
 %}
 
 {% capture col1 %}
