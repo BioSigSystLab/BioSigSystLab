@@ -23,7 +23,7 @@ description of our research theme
 {%
   include button.html
   link="research"
-  text="See our research landscape"
+  text="See our research projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
